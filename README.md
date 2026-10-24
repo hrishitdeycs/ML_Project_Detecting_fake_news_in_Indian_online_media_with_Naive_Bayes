@@ -27,7 +27,7 @@ Please cite the original research paper when using the IFND dataset in your work
 
 According to the dataset providers, the IFND dataset is intended for **research purposes only**. This project uses the dataset for comparative model evaluation.
 
-Users must comply with the dataset's original terms of use and citation requirements. Commercial use or redistribution should not be assumed to be permitted without appropriate authorization.
+Users must comply with the dataset's original terms of use and citation requirements.
 
 ### Data Preprocessing
 
