@@ -10,6 +10,7 @@ Four machine learning models were evaluated using TF-IDF text features and Chi-S
 | Logistic Regression | 94.35% | 97.46% | 85.28% | 90.96% |
 | Linear SVM | **94.81%** | 96.40% | **87.71%** | **91.85%** |
 | KNN | 90.06% | 94.03% | 74.97% | 83.42% |
+<img width="896" height="523" alt="image" src="https://github.com/user-attachments/assets/776befb1-ca54-436c-a332-7581cbfdcc68" />
 
 ## 2. Classification Reports
 
@@ -57,6 +58,7 @@ The confusion matrix evaluates the performance of the Naive Bayes classifier on 
 |---|---:|---:|
 | Genuine (0) | 7,347 | 213 |
 | Fake (1) | 508 | 3,275 |
+<img width="558" height="446" alt="image" src="https://github.com/user-attachments/assets/704003af-19e7-482d-a74e-d20397a55942" />
 
 ### Interpretation
 
